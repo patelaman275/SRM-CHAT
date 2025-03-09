@@ -1,2 +1,5 @@
 git me changes karne ke liye steps
 
+git add .
+git commit -m "Your commit message"
+git push origin main
